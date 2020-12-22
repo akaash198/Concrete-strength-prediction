@@ -36,7 +36,7 @@ components.html(
 
 
  
-data=pd.read_excel("PROJECT.xlsx")  #reading dataset#
+data=pd.read_excel("data.xlsx")  #reading dataset#
  
 
 # user input fuction for getting input from user #
